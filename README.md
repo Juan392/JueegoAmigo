@@ -48,12 +48,15 @@ El Juego Amigo Secreto es una aplicación divertida para organizar el tradiciona
 - GitHub para almacenamiento y colaboración.
 
 ## Instalación 🖥️
-
+Opcion 1:
+1.Accede al siguiente enlace y compartelo con tus amigos: https://juan392.github.io/JueegoAmigo/
+Opcion 2:
 1. Descarga el repositorio.
 2. Descomprime el archvio zip.
 3. Abre la carpeta y ejecuta el archivo index.html
 ![image](https://github.com/user-attachments/assets/1c0f151b-28d5-4d7f-a57f-7ed3270258a9)
 Una vez estes en la interfaz del juego yo de recomiendo hacer llamada con tus amigos, haz que tu mente vuele, podrian hacerse preguntas o ponerle retos al amigo que salga en los resultados, ponte creativo.
+
 ## Personalización del Mensaje del Sorteado ✨
 
 Si deseas personalizar el mensaje que aparece cuando se revela al amigo secreto sorteado, puedes hacerlo fácilmente editando el código fuente del proyecto.
