@@ -2,33 +2,6 @@
 
 ## Descripción
 
-El Juego Amigo Secreto es una aplicación divertida para organizar el tradicional juego de amigo secreto, donde los participantes asignan al azar un amigo al que le puedes dar un regalo, ponerle retos y demas, solo imagina las posiilidades, todo esto sin revelar quién tiene a quién. La app facilita la asignación aleatoria, evitando la necesidad de hacerlo manualmente, ¡y asegurando la sorpresa!
-
-## Características 🚀
-
-- Asignación aleatoria de amigos secretos.
-- Fácil de usar, interfaz sencilla.
-- Generación de listas para mostrar los amigos asignados.
-- ¡Ideal para fiestas de fin de año o eventos de grupo!
-
-🎁 ¡Haz que el proceso de regalar sea mucho más divertido!
-
-## Tecnologías 🛠️
-
-- HTML y CSS para la estructura y estilo de la interfaz.
-- JavaScript para la lógica de asignación aleatoria.
-- Git para control de versiones.
-- GitHub para almacenamiento y colaboración.
-
-## Instalación 🖥️
-
-1. Descarga el repositorio.
-2. Descomprime el archvio zip.
-3. Abre la carpeta y ejecuta el archivo index.html
-# Juego Amigo Secreto 🎉
-
-## Descripción
-
 El Juego Amigo Secreto es una aplicación divertida para organizar el tradicional juego de amigo secreto, donde los participantes asignan al azar un amigo para regalarle un obsequio, todo esto sin revelar quién tiene a quién. La app facilita la asignación aleatoria, evitando la necesidad de hacerlo manualmente, ¡y asegurando la sorpresa!
 
 ## Características 🚀
