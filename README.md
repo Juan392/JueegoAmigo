@@ -63,8 +63,8 @@ Si deseas personalizar el mensaje que aparece cuando se revela al amigo secreto 
 
 ### Pasos para cambiar el mensaje:
 
-1. **Abre el archivo `script.js`**:
-   - En el proyecto, abre el archivo `script.js` que contiene la lógica del juego.
+1. **Abre el archivo `app.js`**:
+   - En el proyecto, abre el archivo `app.js` que contiene la lógica del juego.
    
 2. **Localiza el código de la función que muestra el mensaje del ganador**:
    - Busca la parte del código donde se muestra el mensaje del amigo secreto sorteado. El código debería ser algo similar a esto:
